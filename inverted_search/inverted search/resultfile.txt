@@ -1,0 +1,20 @@
+Word: are File(s): 1
+f3.txt 1 time(s)
+
+Word: hi File(s): 2
+f1.txt 1 time(s)
+f2.txt 3 time(s)
+
+Word: hello File(s): 2
+f1.txt 1 time(s)
+f2.txt 1 time(s)
+
+Word: how File(s): 1
+f3.txt 1 time(s)
+
+Word: welcome File(s): 1
+f2.txt 1 time(s)
+
+Word: you File(s): 1
+f3.txt 1 time(s)
+
